@@ -1,0 +1,1 @@
+Designed and implemented an Infrastructure as Code solution on Microsoft Azure using Terraform, provisioning compute and networking resources. Configured a remote backend with Azure Blob Storage to securely manage Terraform state, ensuring consistency, state locking, and collaborative workflows aligned with real-world DevOps practices.
