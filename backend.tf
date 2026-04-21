@@ -1,4 +1,4 @@
-erraform {
+terraform {
 backend "azurerm" {
    storage_account_name = "examplestoragephani"
     container_name       = "backend"
