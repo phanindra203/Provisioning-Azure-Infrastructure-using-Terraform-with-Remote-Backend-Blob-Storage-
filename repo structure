@@ -1,0 +1,9 @@
+terraform-azure-infra/
+│
+├── main.tf
+├── variables.tf
+├── outputs.tf
+├── backend.tf
+├── terraform.tfvars.example
+├── .gitignore
+└── README.md
